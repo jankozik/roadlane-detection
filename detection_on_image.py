@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Step 1) Load image
-img = cv2.imread("test_img.jpg")
+img = cv2.imread("./Data/test_img.jpg")
 img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
 
 # Step 2) Gray Scale
