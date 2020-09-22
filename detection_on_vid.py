@@ -46,7 +46,7 @@ def process(img):
     return final_img
 
 
-cap = cv2.VideoCapture("lane_vid2.mp4")
+cap = cv2.VideoCapture("./Data/lane_vid2.mp4")
 
 frame_width = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))
 frame_height = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
