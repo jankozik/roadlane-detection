@@ -55,7 +55,7 @@ def process(img):
         return img
 
 
-cap = cv2.VideoCapture("Manhattan_Trim.mp4")
+cap = cv2.VideoCapture("./Data/Manhattan_Trim.mp4")
 
 frame_width = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))
 frame_height = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
