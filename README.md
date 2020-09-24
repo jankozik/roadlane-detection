@@ -1,7 +1,7 @@
 # Road lane detection
 ## Detecting road lanes using OpenCV in Python
 
-### This project uses the computer vision library OpenCV to detect road lanes in an image and in a video frame with the help of Python.
+### This project uses the computer vision library OpenCV to detect road lanes in an image and in video frames with the help of Python.
 ### Here are some snippets
 
 ### In an image
