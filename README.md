@@ -29,5 +29,5 @@
  
  4. Go to the directory of this repo cloned or downloaded onto your local machine and open cmd.
  
- 5. Run the python files of your choice by typing the file name in the cmd as `detection_on_image.py` or `detection_on_vid.py`
+ 5. Run the python files of your choice by typing the file name in the cmd as `detection_on_image.py`, `detection_on_vid.py` or `Manhattan_detection.py`
  
